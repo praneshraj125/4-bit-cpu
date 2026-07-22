@@ -1,0 +1,16 @@
+sim/sim.out
+sim/*.vcd
+
+# Vivado-generated clutter (keep only vivado/*.wcfg under version control)
+.Xil/
+xsim.dir/
+*.jou
+vivado*.log
+xvlog*.log
+xelab*.log
+xsim*.log
+*.pb
+*.wdb
+webtalk*.xml
+vivado*.str
+
