@@ -1,5 +1,5 @@
 # ==============================================================================
-# Makefile for the 4-bit custom-ISA CPU project
+#  4-bit custom-ISA CPU project
 #
 # Usage:
 #   make sim      -> compile + run the self-checking testbench (Icarus Verilog)
