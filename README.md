@@ -1,10 +1,7 @@
 # ==============================================================================
 #  4-bit custom-ISA CPU project
 #
-# Usage:
-#   make sim      -> compile + run the self-checking testbench (Icarus Verilog)
-#   make wave     -> run sim, then open the waveform in GTKWave
-#   make clean    -> remove generated build artifacts
+
 # ==============================================================================
 
 RTL   = rtl/alu_4bit.v rtl/register_file_4bit.v rtl/control_unit_4bit.v \
